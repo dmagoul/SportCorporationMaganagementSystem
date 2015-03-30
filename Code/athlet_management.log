@@ -1,0 +1,15 @@
+Line 120: Class MSDataGridLib.DataGrid of control dt_athlites was not a loaded control class.
+Line 186: Class MSAdodcLib.Adodc of control ado_athlites was not a loaded control class.
+Line 310: Class MSAdodcLib.Adodc of control ado_dimoi was not a loaded control class.
+Line 357: Class MSAdodcLib.Adodc of control ado_pe was not a loaded control class.
+Line 404: Class MSAdodcLib.Adodc of control ado_pateres was not a loaded control class.
+Line 451: Class MSAdodcLib.Adodc of control ado_miteres was not a loaded control class.
+Line 498: Class MSAdodcLib.Adodc of control ado_sxolia was not a loaded control class.
+Line 652: Class MSDataGridLib.DataGrid of control dt_mother was not a loaded control class.
+Line 758: Class MSDataGridLib.DataGrid of control dt_father was not a loaded control class.
+Line 907: Class MSDataListLib.DataCombo of control co_pe was not a loaded control class.
+Line 931: Class MSDataListLib.DataCombo of control co_dimoi was not a loaded control class.
+Line 1283: Class MSMask.MaskEdBox of control MaskEdBox2 was not a loaded control class.
+Line 1305: Class MSMask.MaskEdBox of control MaskEdBox3 was not a loaded control class.
+Line 1611: Class MSMask.MaskEdBox of control MaskEdBox1 was not a loaded control class.
+Line 1633: Class MSDataListLib.DataCombo of control co_sxolia was not a loaded control class.

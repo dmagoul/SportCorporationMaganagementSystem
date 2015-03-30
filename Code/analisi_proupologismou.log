@@ -1,0 +1,14 @@
+Line 368: Class MSDataGridLib.DataGrid of control dt_pr_eksod was not a loaded control class.
+Line 436: Class MSDataGridLib.DataGrid of control dt_eksoda was not a loaded control class.
+Line 504: Class MSDataGridLib.DataGrid of control dt_esoda was not a loaded control class.
+Line 572: Class MSDataGridLib.DataGrid of control dt_pr_esod was not a loaded control class.
+Line 640: Class MSAdodcLib.Adodc of control ado_pr_esod was not a loaded control class.
+Line 687: Class MSAdodcLib.Adodc of control ado_pr_eksod was not a loaded control class.
+Line 862: Class MSAdodcLib.Adodc of control ado_esoda was not a loaded control class.
+Line 909: Class MSAdodcLib.Adodc of control ado_ap_esod was not a loaded control class.
+Line 955: Class MSDataGridLib.DataGrid of control dt_an_esod was not a loaded control class.
+Line 1022: Class MSDataListLib.DataCombo of control co_esoda was not a loaded control class.
+Line 1196: Class MSAdodcLib.Adodc of control ado_eksoda was not a loaded control class.
+Line 1243: Class MSAdodcLib.Adodc of control ado_ap_eksod was not a loaded control class.
+Line 1289: Class MSDataGridLib.DataGrid of control dt_an_eksod was not a loaded control class.
+Line 1356: Class MSDataListLib.DataCombo of control co_eksoda was not a loaded control class.

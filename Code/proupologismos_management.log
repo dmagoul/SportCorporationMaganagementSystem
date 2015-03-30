@@ -1,0 +1,63 @@
+Line 218: Class MSDataGridLib.DataGrid of control dt_proupol was not a loaded control class.
+Line 284: Class MSAdodcLib.Adodc of control ado_proupol was not a loaded control class.
+Line 397: Class MSMask.MaskEdBox of control mb_im_en was not a loaded control class.
+Line 419: Class MSMask.MaskEdBox of control mb_im_liks was not a loaded control class.
+Line 441: Class MSMask.MaskEdBox of control mb_im_egkr was not a loaded control class.
+Line 219: The property name Bindings in dt_proupol is invalid.
+Line 225: The property name _ExtentX in dt_proupol is invalid.
+Line 226: The property name _ExtentY in dt_proupol is invalid.
+Line 227: The property name _Version in dt_proupol is invalid.
+Line 228: The property name AllowUpdate in dt_proupol is invalid.
+Line 229: The property name HeadLines in dt_proupol is invalid.
+Line 230: The property name RowHeight in dt_proupol is invalid.
+Line 239: The property name HeadFont in dt_proupol is invalid.
+Line 249: The property name ColumnCount in dt_proupol is invalid.
+Line 262: The property name Column00 in dt_proupol is invalid.
+Line 275: The property name Column01 in dt_proupol is invalid.
+Line 276: The property name SplitCount in dt_proupol is invalid.
+Line 282: The property name Split0 in dt_proupol is invalid.
+Line 289: The property name _ExtentX in ado_proupol is invalid.
+Line 290: The property name _ExtentY in ado_proupol is invalid.
+Line 291: The property name ConnectMode in ado_proupol is invalid.
+Line 292: The property name CursorLocation in ado_proupol is invalid.
+Line 293: The property name IsolationLevel in ado_proupol is invalid.
+Line 294: The property name ConnectionTimeout in ado_proupol is invalid.
+Line 295: The property name CommandTimeout in ado_proupol is invalid.
+Line 296: The property name CursorType in ado_proupol is invalid.
+Line 297: The property name LockType in ado_proupol is invalid.
+Line 298: The property name CommandType in ado_proupol is invalid.
+Line 299: The property name CursorOptions in ado_proupol is invalid.
+Line 300: The property name CacheSize in ado_proupol is invalid.
+Line 301: The property name MaxRecords in ado_proupol is invalid.
+Line 302: The property name BOFAction in ado_proupol is invalid.
+Line 303: The property name EOFAction in ado_proupol is invalid.
+Line 304: The property name ConnectStringType in ado_proupol is invalid.
+Line 308: The property name Orientation in ado_proupol is invalid.
+Line 310: The property name Connect in ado_proupol is invalid.
+Line 311: The property name OLEDBString in ado_proupol is invalid.
+Line 312: The property name OLEDBFile in ado_proupol is invalid.
+Line 313: The property name DataSourceName in ado_proupol is invalid.
+Line 314: The property name OtherAttributes in ado_proupol is invalid.
+Line 315: The property name UserName in ado_proupol is invalid.
+Line 316: The property name Password in ado_proupol is invalid.
+Line 317: The property name RecordSource in ado_proupol is invalid.
+Line 318: The property name Caption in ado_proupol is invalid.
+Line 328: The property name _Version in ado_proupol is invalid.
+Line 403: The property name _ExtentX in mb_im_en is invalid.
+Line 404: The property name _ExtentY in mb_im_en is invalid.
+Line 405: The property name _Version in mb_im_en is invalid.
+Line 406: The property name MaxLength in mb_im_en is invalid.
+Line 416: The property name Mask in mb_im_en is invalid.
+Line 417: The property name PromptChar in mb_im_en is invalid.
+Line 425: The property name _ExtentX in mb_im_liks is invalid.
+Line 426: The property name _ExtentY in mb_im_liks is invalid.
+Line 427: The property name _Version in mb_im_liks is invalid.
+Line 428: The property name MaxLength in mb_im_liks is invalid.
+Line 438: The property name Mask in mb_im_liks is invalid.
+Line 439: The property name PromptChar in mb_im_liks is invalid.
+Line 447: The property name _ExtentX in mb_im_egkr is invalid.
+Line 448: The property name _ExtentY in mb_im_egkr is invalid.
+Line 449: The property name _Version in mb_im_egkr is invalid.
+Line 450: The property name MaxLength in mb_im_egkr is invalid.
+Line 460: The property name Mask in mb_im_egkr is invalid.
+Line 461: The property name PromptChar in mb_im_egkr is invalid.

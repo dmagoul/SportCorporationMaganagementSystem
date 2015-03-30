@@ -1,0 +1,10 @@
+Line 18: Class MSAdodcLib.Adodc of control ado_dimoi was not a loaded control class.
+Line 65: Class MSAdodcLib.Adodc of control ado_pe was not a loaded control class.
+Line 112: Class MSAdodcLib.Adodc of control ado_jobs was not a loaded control class.
+Line 266: Class MSDataGridLib.DataGrid of control dt_meli was not a loaded control class.
+Line 332: Class MSAdodcLib.Adodc of control ado_meli was not a loaded control class.
+Line 681: Class MSDataListLib.DataCombo of control co_pe was not a loaded control class.
+Line 705: Class MSDataListLib.DataCombo of control co_dimoi was not a loaded control class.
+Line 1073: Class MSMask.MaskEdBox of control im_eg was not a loaded control class.
+Line 1468: Class MSMask.MaskEdBox of control MaskEdBox1 was not a loaded control class.
+Line 1490: Class MSDataListLib.DataCombo of control co_jobs was not a loaded control class.

@@ -1,0 +1,17 @@
+Line 323: Class MSDataGridLib.DataGrid of control dt_oikon_kiniseis was not a loaded control class.
+Line 466: Class MSAdodcLib.Adodc of control ado_oikon_kiniseis was not a loaded control class.
+Line 512: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control MSHFlexGrid1 was not a loaded control class.
+Line 543: Class MSDataListLib.DataCombo of control co_athlites was not a loaded control class.
+Line 559: Class MSAdodcLib.Adodc of control ado_athlites was not a loaded control class.
+Line 606: Class MSDataListLib.DataCombo of control co_meli was not a loaded control class.
+Line 622: Class MSAdodcLib.Adodc of control ado_meli was not a loaded control class.
+Line 669: Class MSDataListLib.DataCombo of control co_organismoi was not a loaded control class.
+Line 685: Class MSAdodcLib.Adodc of control ado_organismoi was not a loaded control class.
+Line 732: Class MSAdodcLib.Adodc of control ado_tipoi_parastatikwn was not a loaded control class.
+Line 779: Class MSDataListLib.DataCombo of control co_tipoi_parastatikwn was not a loaded control class.
+Line 795: Class MSAdodcLib.Adodc of control ado_tipoi_esodwn was not a loaded control class.
+Line 842: Class MSDataListLib.DataCombo of control co_tipoi_eksodwn was not a loaded control class.
+Line 858: Class MSDataListLib.DataCombo of control co_tipoi_esodwn was not a loaded control class.
+Line 874: Class MSAdodcLib.Adodc of control ado_tipoi_eksodwn was not a loaded control class.
+Line 921: Class MSDataListLib.DataCombo of control co_py was not a loaded control class.
+Line 937: Class MSAdodcLib.Adodc of control ado_proipologismos was not a loaded control class.

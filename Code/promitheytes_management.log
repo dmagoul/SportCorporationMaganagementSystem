@@ -1,0 +1,11 @@
+Line 17: Class MSDataGridLib.DataGrid of control dt_dimoi was not a loaded control class.
+Line 84: Class MSDataGridLib.DataGrid of control dt_doi was not a loaded control class.
+Line 151: Class MSAdodcLib.Adodc of control ado_dimoi was not a loaded control class.
+Line 198: Class MSAdodcLib.Adodc of control ado_pe was not a loaded control class.
+Line 245: Class MSAdodcLib.Adodc of control ado_doi was not a loaded control class.
+Line 332: Class MSDataGridLib.DataGrid of control dt_pr was not a loaded control class.
+Line 398: Class MSAdodcLib.Adodc of control ado_pr was not a loaded control class.
+Line 642: Class MSDataListLib.DataCombo of control co_doi was not a loaded control class.
+Line 746: Class MSDataListLib.DataCombo of control co_pe was not a loaded control class.
+Line 770: Class MSDataListLib.DataCombo of control co_dimoi was not a loaded control class.
+Line 1245: Class MSDataGridLib.DataGrid of control dt_pe was not a loaded control class.

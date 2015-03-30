@@ -1,0 +1,15 @@
+Line 126: Class MSAdodcLib.Adodc of control ado_athlites was not a loaded control class.
+Line 192: Class MSDataGridLib.DataGrid of control dt_tipoi_parastatikwn was not a loaded control class.
+Line 301: Class MSDataGridLib.DataGrid of control dt_py_eksodwn was not a loaded control class.
+Line 367: Class MSAdodcLib.Adodc of control ado_py_eksodwn was not a loaded control class.
+Line 455: Class MSAdodcLib.Adodc of control ado_organismoi was not a loaded control class.
+Line 502: Class MSAdodcLib.Adodc of control ado_meli was not a loaded control class.
+Line 565: Class MSDataListLib.DataCombo of control co_athlites was not a loaded control class.
+Line 580: Class MSDataListLib.DataCombo of control co_meli was not a loaded control class.
+Line 595: Class MSDataListLib.DataCombo of control co_organismoi was not a loaded control class.
+Line 659: Class MSDataGridLib.DataGrid of control dt_py_esodwn was not a loaded control class.
+Line 749: Class MSAdodcLib.Adodc of control ado_py_esodwn was not a loaded control class.
+Line 1016: Class MSAdodcLib.Adodc of control ado_tipoi_parastatikwn was not a loaded control class.
+Line 1080: Class MSAdodcLib.Adodc of control ado_py was not a loaded control class.
+Line 1127: Class MSDataGridLib.DataGrid of control dt_py was not a loaded control class.
+Line 1193: Class MSDataListLib.DataCombo of control co_py was not a loaded control class.
